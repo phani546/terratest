@@ -20,7 +20,7 @@ variety of helper functions and patterns for common infrastructure testing tasks
 - Testing Helm Charts
 - Making HTTP requests
 - Running shell commands
-- And much more
+- And much more..
 
 Please see the following for more info:
 
